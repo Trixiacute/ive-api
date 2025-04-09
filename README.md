@@ -6,7 +6,8 @@ An API for fans of the K-pop girl group IVE, providing comprehensive information
 
 The IVE API offers a complete data solution for developers building IVE fan applications. It features a RESTful API design with comprehensive endpoints covering all aspects of the group. The API also includes an intuitive web interface for exploring the available data and testing endpoints.
 
-![IVE API Screenshot](https://i.imgur.com/KsHqLmN.jpg)
+![IVE API Screenshot](![image](https://github.com/user-attachments/assets/f97208f4-cb36-421f-8a68-945cb5b57515)
+
 
 ## Web Interface
 
